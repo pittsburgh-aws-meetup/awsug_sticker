@@ -836,11 +836,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
+     inkscape:zoom="7.919596"
      inkscape:cx="160.62978"
-     inkscape:cy="192.13265"
+     inkscape:cy="50.711295"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -877,7 +877,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -17507,25 +17507,27 @@
            style="stroke:#cf142b;stroke-width:6" />
       </g>
       <g
-         style="display:inline"
-         id="g94895"
-         transform="matrix(0.03372036,0,0,0.03372036,-5.9725006,379.78619)">
-        <rect
-           id="rect46149"
-           height="34.223228%"
-           width="52.786182%"
-           y="1133.0659"
-           x="1199.0767"
-           style="fill:#fe0000;stroke-width:0.42503104" />
-        <rect
-           id="rect46151"
-           height="17.111614%"
-           width="26.393091%"
-           y="1133.0659"
-           x="1199.0767"
-           style="fill:#000095;stroke-width:0.42503104" />
+         id="g3719">
         <g
-           transform="matrix(2.8222331,0,0,2.8222331,-2312.8831,-2600.1779)"
+           transform="matrix(4.4176299,0,0,4.4176299,-123.65699,-1430.6088)"
+           id="g3708">
+          <rect
+             style="fill:#fe0000;stroke-width:0.0143322"
+             x="35.74041"
+             y="418.4613"
+             width="1.779969%"
+             height="1.1540196%"
+             id="rect46149" />
+          <rect
+             style="fill:#000095;stroke-width:0.0143322"
+             x="35.74041"
+             y="418.4613"
+             width="0.88998449%"
+             height="0.5770098%"
+             id="rect46151" />
+        </g>
+        <g
+           transform="matrix(0.09516672,0,0,0.09516672,-84.187527,292.10727)"
            id="g94885">
           <path
              style="fill:#ffffff;stroke-width:0.34223229"
